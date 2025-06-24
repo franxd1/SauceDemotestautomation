@@ -1,0 +1,281 @@
+1750758912797	geckodriver	INFO	Listening on 127.0.0.1:55778
+1750758915866	mozrunner::runner	INFO	Running command: "C:\\Users\\Helio\\.cache\\selenium\\firefox\\win64\\139.0.4\\firefox.exe" "--marionette" "--remote-debuggin ... 9" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Helio\\AppData\\Local\\Temp\\rust_mozprofilessYLGC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1750758917324	Marionette	INFO	Marionette enabled
+1750758917859	Marionette	INFO	Listening on port 55789
+WebDriver BiDi listening on ws://127.0.0.1:55779
+Read port: 55789
+1750758918343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to compile vertex shader: cs_clip_rectangle
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: cs_clip_rectangle
+    
+[GFX1-]: Failed to compile vertex shader: cs_blur_COLOR_TARGET
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: cs_blur_COLOR_TARGET
+    
+[GFX1-]: Failed to compile vertex shader: cs_clip_rectangle
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: cs_clip_rectangle
+    
+[GFX1-]: Failed to compile vertex shader: ps_clear
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_clear
+    
+[GFX1-]: Failed to compile vertex shader: cs_blur_COLOR_TARGET
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: cs_blur_COLOR_TARGET
+    
+[GFX1-]: Failed to compile vertex shader: cs_blur_COLOR_TARGET
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: cs_blur_COLOR_TARGET
+    
+[GFX1-]: Failed to compile vertex shader: ps_clear
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_clear
+    
+[GFX1-]: Failed to compile vertex shader: cs_border_solid
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: cs_border_solid
+    
+[GFX1-]: Failed to compile vertex shader: ps_clear
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_clear
+    
+[GFX1-]: Failed to compile vertex shader: cs_blur_COLOR_TARGET
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: cs_blur_COLOR_TARGET
+    
+[GFX1-]: Failed to compile vertex shader: cs_clip_box_shadow_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: cs_clip_box_shadow_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: cs_clip_rectangle_FAST_PATH
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: cs_clip_rectangle_FAST_PATH
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_textured
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_textured
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_mask_FAST_PATH
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_mask_FAST_PATH
+    
+[GFX1-]: Failed to compile vertex shader: ps_clear
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_clear
+    
+[GFX1-]: Failed to compile vertex shader: cs_border_solid
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: cs_border_solid
+    
+[GFX1-]: Failed to compile vertex shader: cs_linear_gradient
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: cs_linear_gradient
+    
+[GFX1-]: Failed to compile vertex shader: cs_clip_rectangle_FAST_PATH
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: cs_clip_rectangle_FAST_PATH
+    
+[GFX1-]: Failed to compile vertex shader: cs_clip_box_shadow_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: cs_clip_box_shadow_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: cs_clip_rectangle_FAST_PATH
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: cs_clip_rectangle_FAST_PATH
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_textured
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_textured
+    
+[GFX1-]: Failed to compile vertex shader: brush_solid_ALPHA_PASS
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_solid_ALPHA_PASS
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_textured
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_textured
+    
+[GFX1-]: Failed to compile vertex shader: ps_text_run_ALPHA_PASS_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_text_run_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_textured
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_textured
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_mask_FAST_PATH
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_mask_FAST_PATH
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005 Rect(x=524288, y=524288, w=1024, h=512)
+[GFX1-]: Failed to compile vertex shader: ps_clear
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_clear
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_textured
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_textured
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_opacity_ALPHA_PASS
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_opacity_ALPHA_PASS
+    
+[GFX1-]: Failed to compile vertex shader: brush_solid_ALPHA_PASS
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_solid_ALPHA_PASS
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_textured
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_textured
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_ANTIALIASING_REPETITION_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_ANTIALIASING_REPETITION_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: ps_text_run_ALPHA_PASS_DUAL_SOURCE_BLENDING_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_text_run_ALPHA_PASS_DUAL_SOURCE_BLENDING_TEXTURE_2D
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005 Rect(x=525312, y=524288, w=342, h=512)
+[GFX1-]: Failed to compile vertex shader: ps_clear
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_clear
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_textured
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_textured
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_opacity_ALPHA_PASS
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_opacity_ALPHA_PASS
+    
+[GFX1-]: Failed to compile vertex shader: brush_solid_ALPHA_PASS
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_solid_ALPHA_PASS
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_textured
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_textured
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_ANTIALIASING_REPETITION_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_ANTIALIASING_REPETITION_TEXTURE_2D
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005 Rect(x=524288, y=524800, w=1024, h=216)
+[GFX1-]: Failed to compile vertex shader: ps_clear
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_clear
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_textured
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_textured
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005 Rect(x=525312, y=524800, w=342, h=216)
+[GFX1-]: Failed to compile vertex shader: ps_clear
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_clear
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_textured
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_textured
+    
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_rectangle", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_blur_COLOR_TARGET", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_rectangle", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_blur_COLOR_TARGET", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_blur_COLOR_TARGET", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_border_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_blur_COLOR_TARGET", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_box_shadow_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_rectangle_FAST_PATH", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_mask_FAST_PATH", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_border_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_linear_gradient", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_rectangle_FAST_PATH", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_box_shadow_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_rectangle_FAST_PATH", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid_ALPHA_PASS", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_text_run_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_mask_FAST_PATH", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_opacity_ALPHA_PASS", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid_ALPHA_PASS", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_ANTIALIASING_REPETITION_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_text_run_ALPHA_PASS_DUAL_SOURCE_BLENDING_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_opacity_ALPHA_PASS", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid_ALPHA_PASS", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_ANTIALIASING_REPETITION_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+console.error: "Error in processing browser-window-delayed-startup for ReportBrokenSite.init"
+console.error: "out of memory"
+JavaScript error: resource:///modules/UrlbarInput.sys.mjs, line 3978: Error: Failed to load resource://gre/modules/SearchService.sys.mjs
+[GFX1-]: Handling webrender error 4
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to make render context current during destroying.
+[GFX1-]: Error in eglMakeCurrent: 0x300e
+[GFX1-]: Error in eglDestroySurface: 0x300e
+[GFX1-]: Detect DeviceReset DeviceResetReason::DRIVER_ERROR DeviceResetDetectPlace::WR_POST_UPDATE in GPU process
+JavaScript error: resource:///modules/UrlbarInput.sys.mjs, line 3978: NS_ERROR_OUT_OF_MEMORY
+JavaScript error: , line 0: uncaught exception: out of memory
+console.error: SQLite JSM (Connection content-prefs.sqlite#0): "Error during transaction requested by CPS2__dbCreateSchema@ContentPrefService2.sys.mjs. Rolling back" (new Error("Error(s) encountered during statement execution: out of memory", "resource://gre/modules/Sqlite.sys.mjs", 1093))
+console.error: SQLite JSM (Connection content-prefs.sqlite#0): "Could not roll back transaction" (new Error("Error(s) encountered during statement execution: cannot rollback - no transaction is active", "resource://gre/modules/Sqlite.sys.mjs", 1093))
+console.error: SQLite JSM (Connection content-prefs.sqlite#0): (new Error("Error(s) encountered during statement execution: out of memory", "resource://gre/modules/Sqlite.sys.mjs", 1093))
+console.error: (new Error("Error(s) encountered during statement execution: out of memory", "resource://gre/modules/Sqlite.sys.mjs", 1093))
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1093: Error: Error(s) encountered during statement execution: out of memory
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1093: Error: Error(s) encountered during statement execution: out of memory
+Hit MOZ_CRASH([unhandlable oom] Failed to allocate new chunk during GC) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1365
+out of memory: 0x0000000000000318 bytes requested
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: Failed to allocate Texture2D: Size(1024,512)
+[GFX1-]: Failed to allocate Texture2D: Size(1024,512)
+[GFX1-]: Failed to allocate Texture2D: Size(1024,512)
+[GFX1-]: Failed to allocate Texture2D: Size(1024,512)
+[GFX1-]: Failed to allocate Texture2D: Size(1024,512)
+[GFX1]: Failed to map tile: 0x887a0005
+[GFX1-]: MapTile failed aValidRect: Rect(x=0, y=0, w=1024, h=512)

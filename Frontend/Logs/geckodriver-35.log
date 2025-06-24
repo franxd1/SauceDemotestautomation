@@ -1,0 +1,14 @@
+1750759608419	geckodriver	INFO	Listening on 127.0.0.1:56428
+1750759611552	mozrunner::runner	INFO	Running command: "C:\\Users\\Helio\\.cache\\selenium\\firefox\\win64\\139.0.4\\firefox.exe" "--marionette" "--remote-debuggin ... 9" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Helio\\AppData\\Local\\Temp\\rust_mozprofilezRhzP2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1750759612739	Marionette	INFO	Marionette enabled
+1750759613217	Marionette	INFO	Listening on port 56439
+WebDriver BiDi listening on ws://127.0.0.1:56429
+Read port: 56439
+1750759613596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56429/devtools/browser/0ee8bc57-a3b2-45a5-afcd-a924b6be713d
+Hit MOZ_CRASH([unhandlable oom] Failed to allocate new chunk during GC) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1365
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=524288, y=524288, w=1024, h=512)
+Exiting due to channel error.
