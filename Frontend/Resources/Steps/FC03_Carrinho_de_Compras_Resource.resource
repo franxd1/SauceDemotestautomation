@@ -24,14 +24,14 @@ Quando clica no botão "Add to cart" de um ou mais produtos
     Click Element    ${Inventario_Botao_Add_to_Cart}
 
 Quando acessa a página do carrinho
-    Click Element    ${Inventario_Carrino}
+    Click Element    ${Inventario_Carrinho}
     Wait Until Element Is Visible    ${Carrinho_titulo_Your_cart}    
 
 E clica no botão "Remove" de um produto
     Click Element    ${Carrinho_Botao_Remove}
 
 Então o sistema deve atualizar o ícone do carrinho exibindo a quantidade correta de itens
-     ${quantidade_carrinho}=    Get Text    css:.shopping_cart_badge
+     ${quantidade_carrinho}=    Get Text    ${Inventario_Icone_Carrinho}
     Should Be Equal As Integers    ${quantidade_carrinho}    1
     Close Browser
 Então o sistema deve remover o produto do carrinho

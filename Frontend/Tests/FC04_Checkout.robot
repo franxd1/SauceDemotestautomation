@@ -7,9 +7,9 @@ Cenário 10: Iniciar processo de checkout
     Então o sistema deve redirecionar o usuário para a página de informações de checkout
 Cenário 11: Preencher dados obrigatórios do checkout
     Dado que o usuário está na página de checkout
-    Quando preenche o campo "First Name" com "João"
-    E preenche o campo "Last Name" com "Silva"
-    E preenche o campo "Postal Code" com "12345"
+    Quando preenche o campo "First Name" com "Lionel"
+    E preenche o campo "Last Name" com "Tester"
+    E preenche o campo "Postal Code" com "22780-080"
     E clica no botão "Continue"
     Então o sistema deve exibir o resumo da compra
 Cenário 12: Validar resumo da compra 
