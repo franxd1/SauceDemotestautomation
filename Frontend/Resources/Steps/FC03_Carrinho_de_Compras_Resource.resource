@@ -4,8 +4,8 @@ Library    XML
 Resource        ../variables/GlobalVariables.resource
 Resource        ../variables/Credenciais.resource
 Resource        CommosResource.resource
-
 *** Keywords ***
+#DADO
 Dado que o usuário está na página de inventário
     Realizar login com sucesso
     Validar Que Estou Na Pagina     ${Inventario_Link_Pagina_Inventario}
@@ -19,17 +19,17 @@ Dado que o usuário adicionou produtos ao carrinho
     Realizar login com sucesso
     Validar Que Estou Na Pagina     ${Inventario_Link_Pagina_Inventario}
     Click Element    ${Inventario_Botao_Add_to_Cart} 
-
+#QUANDO
 Quando clica no botão "Add to cart" de um ou mais produtos
     Click Element    ${Inventario_Botao_Add_to_Cart}
 
 Quando acessa a página do carrinho
     Click Element    ${Inventario_Carrinho}
     Wait Until Element Is Visible    ${Carrinho_titulo_Your_cart}    
-
+#E
 E clica no botão "Remove" de um produto
     Click Element    ${Carrinho_Botao_Remove}
-
+#ENTÃO
 Então o sistema deve atualizar o ícone do carrinho exibindo a quantidade correta de itens
      ${quantidade_carrinho}=    Get Text    ${Inventario_Icone_Carrinho}
     Should Be Equal As Integers    ${quantidade_carrinho}    1

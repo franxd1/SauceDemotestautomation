@@ -16,7 +16,7 @@ Adicionar texto ao input
 
     
 Realizar login com sucesso
-    Open Browser    https://www.saucedemo.com/v1/    Edge
+    Open Browser    ${Link_Pagina_De_Login}   
     Adicionar texto ao input    ${Login_input_username}    ${Email_valido}
     Adicionar texto ao input    ${Login_input_Password}        ${Senha_valida}
     Click Button    ${Login_Botao_Login}

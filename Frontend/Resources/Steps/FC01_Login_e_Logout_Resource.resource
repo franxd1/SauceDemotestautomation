@@ -8,9 +8,7 @@ Resource        CommosResource.resource
 *** Keywords ***
 #DADO
 Dado que o usuário acessa a página de login
-    ${options}=    Create Dictionary    args=--user-data-dir=C:/TempProfile
-    Open Browser    https://www.saucedemo.com/v1/    chrome    chrome_options=${options}
-
+    Open Browser    ${Link_Pagina_De_Login}    
     Validar Que Estou Na Pagina     ${Link_Pagina_De_Login}
 Dado que o usuário realizou o login com sucesso
     Realizar login com sucesso
@@ -47,7 +45,6 @@ Então o sistema deve redirecionar o usuário para a página de login
 
 
 Validar mensagem de erro credenciais invalidas
-   
     #Wait Until Element Is Visible  ${Login_Mensagem_de_Erro}    7s       
     Set Focus To Element    ${Login_Mensagem_de_Erro}
     ${texto}    Get Text    ${Login_Mensagem_de_Erro}
